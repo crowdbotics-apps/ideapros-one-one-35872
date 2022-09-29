@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "bb8cc2fd85abba1b5ee106ac411832f7be106e8e714c41810a72f3ee1d6b3cbf"
+            "sha256": "c02b2cc9968c0d3e37aec3db399eb6f98f5feec7c3a0c786a8f0c71660b46d11"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -55,6 +55,10 @@
             ],
             "markers": "python_version ~= '3.7'",
             "version": "==5.2.0"
+        },
+        "cb-camera": {
+            "editable": true,
+            "path": "./modules/camera"
         },
         "cb-privacy-policy": {
             "editable": true,
