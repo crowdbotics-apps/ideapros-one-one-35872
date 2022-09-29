@@ -60,6 +60,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [terms-and-conditions]()
 - [react-native-login](modules/login)
 - [react-native-splash](modules/splash)
+- [screen-notifications-preference](screens/notifications-preference)
 
 # Getting started: Frontend
 
