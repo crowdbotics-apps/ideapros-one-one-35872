@@ -64,6 +64,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [camera]()
 - [screen-settings](screens/settings)
 - [screen-wallet-connect](screens/wallet-connect)
+- [screen-wallet-transaction](screens/wallet-transaction)
 
 # Getting started: Frontend
 

@@ -1248,7 +1248,10 @@
 "@screens/settings@file:./screens/settings":
   version "1.0.0"
 
-"@screens/wallet-connect@file:./screens/wallet-connect/":
+"@screens/wallet-connect@file:./screens/wallet-connect":
+  version "1.0.0"
+
+"@screens/wallet-transaction@file:./screens/wallet-transaction/":
   version "1.0.0"
 
 "@sideway/address@^4.1.3":
