@@ -63,6 +63,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-notifications-preference](screens/notifications-preference)
 - [camera]()
 - [screen-settings](screens/settings)
+- [screen-wallet-connect](screens/wallet-connect)
 
 # Getting started: Frontend
 

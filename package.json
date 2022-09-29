@@ -24,6 +24,7 @@
     "@reduxjs/toolkit": "^1.5.0",
     "@screens/notifications-preference": "file:./screens/notifications-preference/",
     "@screens/settings": "file:./screens/settings/",
+    "@screens/wallet-connect": "file:./screens/wallet-connect/",
     "axios": "^0.21.1",
     "react": "17.0.1",
     "react-native": "0.64.0",
