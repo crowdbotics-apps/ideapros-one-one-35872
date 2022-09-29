@@ -65,6 +65,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-settings](screens/settings)
 - [screen-wallet-connect](screens/wallet-connect)
 - [screen-wallet-transaction](screens/wallet-transaction)
+- [screen-support-send-feedback](screens/support-send-feedback)
 
 # Getting started: Frontend
 
